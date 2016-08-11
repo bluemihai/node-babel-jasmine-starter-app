@@ -1,15 +1,3 @@
-## Setting up your localhost
-
-No database required
-```
-  [tab 1] npm install
-  [tab 1] npm run buildwatch
-
-  [tab 2] npm start
-
-  [tab 3] npm test
-```
-
 ## Code Quality Rubric
 
 | Score | Out of  | Rubric Item                                                                       |
@@ -25,4 +13,16 @@ No database required
 |       | 10      | No giant functions                                                                |
 |       | 5       | Good file organization - new developers can quickly find and create files         |
 |       | 5       | Comments only when truly necessary, such as pointing out a temporary hack)        |
+
+## Setting up your localhost
+
+No database required
+```
+  [tab 1] npm install
+  [tab 1] npm run buildwatch
+
+  [tab 2] npm start
+
+  [tab 3] npm test
+```
 
